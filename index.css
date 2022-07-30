@@ -1,0 +1,17 @@
+body{
+    background-color: dimgray;
+}
+.box-part{
+    background-color:whitesmoke;
+    padding: 30px 80px;
+    margin:80px 80px;
+}
+.box{
+    padding: 40px 50px;
+}
+h4{
+    color: white;
+}
+h6{
+    color: aliceblue;
+}
